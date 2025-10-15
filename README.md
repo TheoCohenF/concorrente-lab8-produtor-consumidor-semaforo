@@ -4,12 +4,12 @@ prime-count.c: O programa recebe três valores — N, M e C — como argumentos 
 Como Compilar
 Para compilar o programa, use o gcc no terminal com o comando:
 
-gcc -o prime-count.exe prime-count.c -Wall -lm
+gcc -o contador.exe contador.c -Wall -lm
 
 Como Executar
 Depois de compilar, execute o programa da seguinte forma:
 
-./prime-count N M C
+./contador N M C
 
 Onde:
 N = limite máximo para verificar números primos

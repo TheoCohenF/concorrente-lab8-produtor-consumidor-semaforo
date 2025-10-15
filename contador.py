@@ -1,5 +1,4 @@
-/* Disciplina: Computacao Concorrente */
-/* Atividade 8
+
 
 #include <pthread.h>
 #include <stdio.h>
